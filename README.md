@@ -29,7 +29,7 @@ If you are using Linux. you need to root your terminal to run this project.
 How to root
 Example
 
->>> sudo su
+>>> enter "sudo su" on Terminal 
 >>> then enter your password 
 >>> it is rooted
 >>> you can run it via Terminal
