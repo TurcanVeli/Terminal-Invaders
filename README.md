@@ -1,5 +1,5 @@
 # Terminal-Invaders
- It made for just fun. This game is similar Space Invaders but there is one different that there is a enemy in Terminal Invaders but there are many enemy in others.
+ It made for just fun. This game is similar Space Invaders but there is a small difference between the two games in that there is one enemy in my game.
 
 Menu
 
