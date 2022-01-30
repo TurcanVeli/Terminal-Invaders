@@ -17,3 +17,19 @@ Game
 
 
 ![map](https://user-images.githubusercontent.com/73202042/151682791-65d8d3d2-fe23-40c6-b403-71b39cebdbd1.PNG)
+
+
+
+-------------------------------------------------------------------------------------
+Requirements:
+1- Keyboard library
+
+If you are using Linux. you need to root your terminal to run this project.
+
+How to root
+Example
+
+>>> sudo su
+>>> then enter your password 
+>>> it is rooted
+>>> you can run it via Terminal
