@@ -18,7 +18,7 @@ __________________'''
         
         Choose Fps
         5) 60 fps 6) 30 fps 
-        7)  to back previos page, press 5\n'''
+        7)  to back previos page, press 7\n'''
     
         self.ships = ["T*T","{+}","+(0)+","*|+|*"]
         self.selected_ship = "^+^"
